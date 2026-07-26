@@ -1,9 +1,29 @@
 aid: fastwork
 name: Fastwork
-description: Fastwork is a company surfaced as a portfolio company of 500-global, partech and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Fastwork is Thailand's leading freelance and services marketplace, connecting
+  businesses and individuals with roughly 200,000 vetted service providers across
+  about 300 categories — including design and graphics, web and app development,
+  AI development and automation, marketing and advertising, writing and translation,
+  photography and video, and lifestyle services. An escrow-based "Fastwork Guarantee"
+  holds payment until work is delivered, protecting both buyers and freelancers. The
+  platform serves individuals, SMEs, and enterprises with a dedicated business portal,
+  and is expanding from Thailand into Indonesia and Vietnam. Fastwork is backed by
+  500 Global and Partech. No public developer API is currently published; this profile
+  captures the company's public web surface and domain-security posture.
 url: https://raw.githubusercontent.com/api-evangelist/fastwork/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://fastwork.co/static-v4/images/home/og-image-home-th.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -13,9 +33,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Freelance
+- Marketplace
+- Services
+- Gig Economy
+- Thailand
+- Southeast Asia
+- Escrow Payments
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,20 @@ maintainers:
 common:
 - type: Website
   url: https://fastwork.co
+- type: Blog
+  url: https://blog.fastwork.co
+- type: Support
+  url: https://fastwork4276.zendesk.com/hc/th
+- type: SignUp
+  url: https://fastwork.co/start-selling
+- type: TermsOfService
+  url: https://static.fastwork.co/contents/terms
+- type: PrivacyPolicy
+  url: https://static.fastwork.co/contents/privacy
+- type: DomainSecurity
+  url: security/fastwork-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
