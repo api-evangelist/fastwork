@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fastwork is a company surfaced as a portfolio company of 500-global, partech and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Fastwork is Thailand's leading freelance and services marketplace, connecting businesses and individuals with roughly 200,000 vetted service providers across about 300 categories — including design and graphics, web and app development, AI development and automation, marketing and advertising, writing and translation, photography and video, and lifestyle services. An escrow-based "Fastwork Guarantee" holds payment until work is delivered, protecting both buyers and freelancers. The platform serves individuals, SMEs, and enterprises with a dedicated business portal, and is expanding from Thailand into Indonesia and Vietnam. Fastwork is backed by 500 Global and Partech. No public developer API is currently published; this profile captures the company's public web surface and domain-security posture.
 
-Backed by: 500-global, partech — https://fastwork.co
+**Areas:** Company · Freelance · Marketplace · Services · Gig Economy · Thailand · Southeast Asia · Escrow Payments
+
+## Fastwork on APIs.io
+
+Everything profiled for Fastwork is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fastwork/](https://apis.io/providers/fastwork/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fastwork Domain Security](https://apis.io/security/fastwork/fastwork-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fastwork.co)
+- [Sign up](https://fastwork.co/start-selling)
+- [Support](https://fastwork4276.zendesk.com/hc/th)
+- [Blog](https://blog.fastwork.co)
+- [Terms of service](https://static.fastwork.co/contents/terms)
+- [Privacy policy](https://static.fastwork.co/contents/privacy)
+
+## API Evangelist rating
+
+**Kin Score 12.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.5** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fastwork/](https://apis.io/providers/fastwork/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fastwork: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fastwork/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
